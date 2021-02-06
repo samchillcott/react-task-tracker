@@ -1,7 +1,5 @@
 import React, { useState } from 'react'
 
-
-
 const Tasks = () => {
     const [tasks, setTasks] = useState([1,2,3])
     return (
